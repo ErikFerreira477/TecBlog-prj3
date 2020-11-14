@@ -1,0 +1,149 @@
+.header{
+    background-color: #f7b600;
+    margin-bottom: 20px;
+    margin-top: -20px;
+    margin-left: -20px;
+    margin-right: -20px;
+}
+
+#titulo{
+    font-size: 60px;
+    text-align: center;
+    padding: 20px;
+    padding-top: 35px;
+} 
+
+#brac{
+    color: white;
+}
+
+.barrabot{
+    background-color: #f7b600;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.botoes{
+    padding: 10px;
+    font-size: 25px;
+}
+
+a:link, a:visited{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: white;
+    color:  #f7b600;
+    text-decoration: none;
+}
+
+.amarelo1 a:link, .amarelo1 a:visited{
+    color: #f7b600;
+}
+
+.amarelo1 a:hover{
+    text-decoration: underline;
+}
+
+.amarelo2 a:link, .amarelo2 a:visited{
+    color: #f7b600;
+}
+
+.amarelo2 a:hover{
+    text-decoration: underline;
+}
+
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #e6e6e6;
+}
+
+p{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+/* referente ao texto dentro da caixa maior do site */
+
+.caixona{
+    width: 1280px;
+    margin: auto;
+}
+
+.caixa{
+    background-color: white;
+    width: 950px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.caixa2{
+    
+    background-color: white;
+    width: 950px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.tit2{
+    color: #f7b600;
+    font-size: 35px;
+    padding-top: 20px;
+    padding-left: 18px;
+}
+
+.post{
+    padding-left: 18px;
+    padding-bottom: 20px;
+    font-size: 15px;
+}
+
+.img{
+    padding-left: 18px;
+    padding-right: 18px;
+    width: 910px;
+    height: 500px;
+}
+
+/* referente a xcaixa menor */
+
+.caixinha{
+    float: right;
+    background-color: white;
+    width: 280px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.cinza{
+    color: #4F4F4F;
+    font-size: 22px;
+    background-color: #C0C0C0;
+    padding: 5px;
+    font-weight: 700;
+    margin-bottom: 7px;
+}
+
+.txt{
+    font-weight: 500;
+}
+
+.amarelo1, .amarelo2{
+    color: #f7b600;
+}
+
+/* footer */
+
+.footer{
+    background-color: #f7b600;
+    text-align: center;
+    font-weight: bold;
+    margin: -20px;
+    padding: 5px;
+    clear: both;
+}
+
+
